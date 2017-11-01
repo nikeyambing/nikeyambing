@@ -13,19 +13,20 @@ theme = "aerial"
 [[params.social]]
   medium = "Twitter"
   icon = "twitter"
-  link = "#"
+  link = "https://twitter.com/nikeyambing"
+  target = "_blank"
 
 [[params.social]]
   medium = "Codepen"
   icon = "codepen"
-  link = "#"
+  link = "https://codepen.io/nikeyambing/"
 
 [[params.social]]
   medium = "Github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/nikeyambing"
 
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "#"
+  link = "mailto:mryambing@gmail.com"
