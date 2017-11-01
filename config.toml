@@ -1,5 +1,6 @@
 languageCode = "en-us"
 title = "Anthony Yambing"
+publishDir = "public"
 baseurl = "http://nikeyambing.com/"
 theme = "aerial"
 
