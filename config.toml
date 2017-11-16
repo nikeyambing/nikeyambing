@@ -21,11 +21,13 @@ theme = "aerial"
   medium = "Codepen"
   icon = "codepen"
   link = "https://codepen.io/nikeyambing/"
+  target = "_blank"
 
 [[params.social]]
   medium = "Github"
   icon = "github"
   link = "https://github.com/nikeyambing"
+  target = "_blank"
 
 [[params.social]]
   medium = "Email"
